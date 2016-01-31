@@ -1,0 +1,16 @@
+{
+    "name": "list-ips",
+    "version": "1.0.0",
+    "description": "Generate lists of IPs using wildcards and ranges",
+    "keywords": ["ip", "ipv4", "list"]
+    "bugs": {
+        "url": "https://github.com/dcohenb/list-ips/issues"
+    },
+    "main": "index.js",
+    "author": "Daniel Cohen <dcohenb@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dcohenb/list-ips.git"
+    }
+}
