@@ -36,6 +36,6 @@ function list(range) {
     return list;
 }
 
-return {
-    list: list
-}
+module.exports = {
+	list: list
+};
