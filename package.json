@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Generate lists of IPs using wildcards and ranges",
     "keywords": ["ip", "ipv4", "list"]
-    "bugs": {
+,    "bugs": {
         "url": "https://github.com/dcohenb/list-ips/issues"
     },
     "main": "index.js",
