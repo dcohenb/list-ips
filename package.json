@@ -1,6 +1,6 @@
 {
   "name": "list-ips",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate lists of IPs using wildcards and ranges",
   "keywords": [
     "ip",
