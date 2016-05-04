@@ -20,7 +20,7 @@ function list(range) {
                 length: 255
             }).map(Number.call, Number);
         }
-    })
+    });
 
     var list = [];
     res[0].forEach(function(a) {
@@ -36,6 +36,4 @@ function list(range) {
     return list;
 }
 
-module.exports = {
-	list: list
-};
+module.exports.list = list;
