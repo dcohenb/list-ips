@@ -11,7 +11,7 @@ function list(range) {
                 m = parseInt(r[0]);
             }
             var a = [];
-            for (var i = n; i < m; i++) {
+            for (var i = n; i <= m; i++) {
                 a.push(i);
             }
             return a;
