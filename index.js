@@ -23,6 +23,10 @@ function list(range) {
     });
 
     var list = [];
+    if(res.length < 4 || res.length > 4) {
+        console.error('ip format not right, should be x.x.x.x')
+        return [];
+    }
     res[0].forEach(function(a) {
         res[1].forEach(function(b) {
             res[2].forEach(function(c) {
